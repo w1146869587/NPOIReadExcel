@@ -1,0 +1,17 @@
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\NPOIReadExcel.dll
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\NPOI.dll
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\NPOI.OOXML.dll
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.dll
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\NPOIReadExcel.pdb
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.xml
+F:\tempDemo\NPOIReadExcel\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache

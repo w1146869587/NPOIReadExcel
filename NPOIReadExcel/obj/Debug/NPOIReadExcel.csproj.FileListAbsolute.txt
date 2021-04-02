@@ -1,0 +1,12 @@
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\NPOIReadExcel.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\NPOIReadExcel.pdb
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\BouncyCastle.Crypto.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\NPOI.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\NPOI.OOXML.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\NPOI.OpenXml4Net.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Debug\BouncyCastle.Crypto.xml
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\obj\Debug\NPOIReadExcel.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\obj\Debug\NPOIReadExcel.pdb
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\obj\Debug\NPOIReadExcel.csprojResolveAssemblyReference.cache

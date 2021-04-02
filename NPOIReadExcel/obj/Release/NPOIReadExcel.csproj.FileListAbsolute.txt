@@ -1,0 +1,13 @@
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\NPOIReadExcel.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\NPOIReadExcel.pdb
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\BouncyCastle.Crypto.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\NPOI.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\NPOI.OOXML.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\NPOI.OpenXml4Net.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\NPOI.OpenXmlFormats.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\bin\Release\BouncyCastle.Crypto.xml
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\obj\Release\NPOIReadExcel.csproj.CoreCompileInputs.cache
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\obj\Release\NPOIReadExcel.csproj.CopyComplete
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\obj\Release\NPOIReadExcel.dll
+F:\tempDemo\NPOIReadExcel\NPOIReadExcel\obj\Release\NPOIReadExcel.pdb

@@ -1,0 +1,15 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly NPOIReadExcel, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly NPOI, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1: 
+	hash=None, flags=None
+Assembly NPOI.OOXML, Version=2.5.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1: 
+	hash=None, flags=None
+Class NPOIReadExcel.CNPOIReadExcel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    OpenExcel(String, String&): PrivateScope, Public, HideBySig
+    GetCell(Int32, Int32): PrivateScope, Public, HideBySig
+    CloseExcel(): PrivateScope, Public, HideBySig
